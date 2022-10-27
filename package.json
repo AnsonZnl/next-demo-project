@@ -26,6 +26,9 @@
     "styled-jsx": "5.1.0",
     "use-count-up": "3.0.1"
   },
+  "volta": {
+    "node": "16.14.2"
+  },
   "devDependencies": {
     "@types/node": "18.0.3",
     "@types/react": "18.0.15",
